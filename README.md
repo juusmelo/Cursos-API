@@ -8,8 +8,8 @@ API para gerenciamento de **professores** e **cursos**
 - Expresss
 
 ## Endpoints
-- 'POST /professores' - Cria um professor
-- 'GET /professores' - Lista profesores
-- 'POST /cursos' - Cria cursos
-- 'GET /cursos' - Lista cursos
-- 'DELETE /cursos/id`' - Deleta curso por id
+- `POST /professores` - Cria um professor
+- `GET /professores` - Lista profesores
+- `POST /cursos` - Cria cursos
+- `GET /cursos` - Lista cursos
+- `DELETE /cursos/id` - Deleta curso por id
